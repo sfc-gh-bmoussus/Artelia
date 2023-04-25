@@ -24,3 +24,5 @@ resource "snowflake_database" "demo_db" {
 }
 
 
+
+
