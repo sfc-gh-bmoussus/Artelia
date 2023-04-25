@@ -30,3 +30,6 @@ resource "snowflake_schema" "demo_schema" {
 }
 
 
+
+
+
